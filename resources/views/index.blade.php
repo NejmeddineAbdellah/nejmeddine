@@ -154,7 +154,7 @@
                         learn BOOTSTRAP for better and easy design,
                         then PHP which make the website dynamique,
                         after that i try to learn framework backend wich is LARAVEL also having couple skills (VMware
-                        ,SonyVegas ,<a href="http://">More</a>; )
+                        ,SonyVegas ,<a target="_blank" href="http://127.0.0.1:8000/storage/docs/Abdellah_Nejmeddine_CV.pdf">More</a>; )
 
                     </p>
                 </div>
@@ -230,7 +230,7 @@
                                         <div class="center">
                                             <h5>{{ $prj->title }}<br><span>{{ $prj->seconde_title }}</span></h5>
                                             <p>{{ $prj->description_project }}</p>
-                                            <a href="{{ $prj->github }}"> <i>Read More</i> </a>
+                                            <a target="_blank" href="{{ $prj->github }}"> <i>Read More</i> </a>
                                         </div>
                                     </div>
                                 </div>
